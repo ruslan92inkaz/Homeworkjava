@@ -36,3 +36,17 @@ G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e/d/ed
 Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138,b/0/b08f1ab659fbdd998f45c0def99188f980cc899b
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+\
+,src/ru/innopolis/java/homework02/task01.java,0/2/028b9dccd156f8cec869a328a3e6893c63459f1e
+\
+,src/ru/innopolis/java/homework02/task02.java,6/2/623a0d2d692a356a7601b2ce3c76874fd563a913
+\
+,src/ru/innopolis/java/homework02/task03.java,e/b/ebfd19db59d1806ed38f8b7148b706031ccdf859
+Y
+)src/ru/innopolis/java/homework03/App.java,c/8/c8bca50c3a86c0828333e30f0a016d5ba23de383
+_
+/src/ru/innopolis/java/homework03/Televizor.java,e/3/e379bf4fa9f68e28e7840ca0d1e8d61654488fe5
+\
+,src/ru/innopolis/java/homework04/task01.java,4/c/4c10adf42a2c3b3fe178704f9fbb5f3080298ce8
+\
+,src/ru/innopolis/java/homework04/task02.java,f/0/f0e9fe8e7ab3677405fd37ee23c136a875497944
